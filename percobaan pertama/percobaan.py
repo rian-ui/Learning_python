@@ -1,0 +1,6 @@
+print('ada')
+
+#%%
+
+}
+print('ada')
